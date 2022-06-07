@@ -1,0 +1,48 @@
+body{
+text-align: center;
+}
+
+h1{
+padding: 5% 8%;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 6rem;
+font-weight: bold;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2rem;
+  font-weight:bold;
+color: #f2eeda;
+}
+#title{
+background-color: #32a6a8;
+}
+
+.dicee{
+color: #fff;
+}
+
+.fax{
+font-size: 3rem;
+}
+
+.fap{
+color:#f2eeda ;
+}
+
+.inpad{
+display: inline-block;
+padding: 1% 5%;
+padding-bottom: 5%;
+}
+
+.img1{
+width: 8rem;
+}
+
+footer{
+background-color: #f2eeda;
+padding: 8% 2%;
+color:#32a6a8;
+}
